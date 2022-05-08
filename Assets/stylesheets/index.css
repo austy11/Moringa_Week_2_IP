@@ -13,7 +13,7 @@ section{
     width: 100%;
     height: 80vh;
     background-size: cover;
-    background-image: url(/Assets/images/moving1.png);
+    background-image: url(./Assets/images/moving1.png);
     background-position: center;
 }
 .navbar{
